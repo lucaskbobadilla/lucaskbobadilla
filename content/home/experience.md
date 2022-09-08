@@ -60,6 +60,34 @@ experience:
         * Experimental design & Data analysis
         * Teaching assistant
 
+  - title: Researcher analyst
+    company: Control Union
+    company_url: 'https://certifications.controlunion.com/en'
+    company_logo: org-control
+    location: Sao Paulo, Brazil
+    date_start: '2016-06-01'
+    date_end: '2016-01-01'
+    description: |2-
+        * Evaluation and assessment of agriculture land value
+        * Development of tools for land evaluation
+        * Spatial analysis and map development
+
+  - title: Undergraduate Research Assistant
+    company:  Hanson Lab - UC Davis
+    company_url: 'https://www.plantsciences.ucdavis.edu/people/brad-hanson'
+    company_logo: uc-davis
+    location: Davis, California
+    date_start: '2015-02-01'
+    date_end: '2015-12-01'
+    description: |2-
+        * Conducted field research with a focus on weed management in agronomic crops
+        * Collaborated with extension farm advisors to conduct field experiments 
+        * Mentored and helped undergraduate research projects
+        * Greenhouse and laboratory experience
+        * Spatial data analysis
+        * Image analysis
+        * Experimental design & Data analysis
+
 design:
   columns: '2'
 ---
