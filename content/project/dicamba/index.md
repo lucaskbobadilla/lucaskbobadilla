@@ -48,7 +48,7 @@ slides: ""
   
 * Step 1: **Quantification of the resistance level and understanding of the inheritance patterns**
 
-This step was recently [published](https://lucaskbobadilla.github.io/publication/bobadilla-characterization-inheritance-dicamba-2022/) on Weed Science and details can be found in the peer reviewed manuscript. In fact, the paper was featured in the cover of the journal edition and was [featured in multiple News outlet](https://aces.illinois.edu/news/first-dicamba-resistant-waterhemp-reported-illinois).
+This step was recently [published](https://lucas-bobadilla.netlify.app/publication/bobadilla-characterization-inheritance-dicamba-2022/) on Weed Science and details can be found in the peer reviewed manuscript. In fact, the paper was featured in the cover of the journal edition and was [featured in multiple News outlet](https://aces.illinois.edu/news/first-dicamba-resistant-waterhemp-reported-illinois).
 
 * Step 2: **Transcriptome and expression variation in Dicamba resistance waterhemp**
 

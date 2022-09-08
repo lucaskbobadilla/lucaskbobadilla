@@ -17,7 +17,7 @@ tags:
 - ploidy level
 - Spatial analysis
 - survey
-categories: []
+categories: [MS]
 date: '2021-01-01'
 lastmod: 2022-04-24T14:26:55-05:00
 featured: false
@@ -36,7 +36,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [Herbicide_resistance_lolium]
 publishDate: '2022-04-24T19:26:54.882870Z'
 publication_types:
 - '2'
