@@ -49,7 +49,7 @@ experience:
   - title: Research Assistant
     company: Mallory-Smith Lab - Oregon State University
     company_url: 'https://cropandsoil.oregonstate.edu/users/carol-mallory-smith'
-    company_logo: org-osu
+    company_logo: org-OSU
     location: Corvallis, Oregon
     date_start: '2016-08-01'
     date_end: '2019-06-01'
