@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 65
 
 title: Projects
 subtitle: ''
@@ -27,14 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Dicamba
-      tag: dicamba
-    - name: RNA-seq
-      tag: RNA-seq
-    - name: Weed Science
-      tag: Weed Science
-    - name: Evolution
-      tag: Evolution
+    - name: Deep Learning
+      tag: Deep Learning
+    - name: Other
+      tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
