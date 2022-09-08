@@ -46,6 +46,28 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
+  - title: Research assistant
+    company: Tranel Lab - University of Illinois
+    company_url: 'https://cropsciences.illinois.edu/directory/tranel'
+    company_logo: org-uiuc
+    location: Urbana, Illinois
+    date_start: '2019-06-01'
+    date_end: ''
+    description: |2-
+        * Worked with extensive bioinformatics analysis 
+        * Genome assembly
+        * R package development
+        * Wet-lab activities: PCR, Sanger sequence, RT-q PCR, DNA and RNA extraction
+        * Prepared and conducted greenhouse-based experiments
+        * Supervised undergraduate students
+        * Teaching assistant
+        * Performed guest lectures about data analysis and bioinformaticcs
+        * Presented seminars in scientific conferences
+        * Manuscript & proposal preparation
+        * Development of successful USDA grand ($500,000.00)
+        * Development of plant phenotyping image analysis system
+        * Multiple successful peer reviews papers
+
 design:
   columns: '2'
 ---
