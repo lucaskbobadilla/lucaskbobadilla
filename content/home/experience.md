@@ -45,7 +45,20 @@ experience:
         * Development of successful USDA grand ($500,000.00)
         * Development of plant phenotyping image analysis system
         * Multiple successful peer reviews papers
-        
+
+  - title: Research Assistant
+    company: Mallory-Smith Lab - Oregon State University
+    company_url: 'https://cropandsoil.oregonstate.edu/users/carol-mallory-smith'
+    company_logo: org-osu
+    location: Corvallis, Oregon
+    date_start: '2016-08-01'
+    date_end: '2019-06-01'
+    description: |2-
+        * Conducted field research with a focus on weed management in perennial crops
+        * Assisted in extensive research involving the use of radiolabeled herbicides in weed species to study herbicide absorption and translocation 
+        * Undertaken dose-response experiments on greenhouse and field trials
+        * Experimental design & Data analysis
+        * Teaching assistant
 
 design:
   columns: '2'
